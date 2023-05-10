@@ -11,10 +11,11 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- LendingClub is a peer-to-peer lending platform that connects borrowers and investors. It offers personal loans, business loans, and student loans, providing a streamlined and transparent borrowing process. Borrowers can access funds at competitive rates, while investors can diversify their portfolios by funding fractional loans and earning attractive returns.
+
+- To identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+
+- We used 'loan.csv' which contains the complete loan data for all loans issued through the time period 2007 t0 2011.
 
 
 
